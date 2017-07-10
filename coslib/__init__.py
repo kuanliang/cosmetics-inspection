@@ -5,3 +5,4 @@
 """
 from .DataIO import *
 from .imutils import *
+from .Plot import *
